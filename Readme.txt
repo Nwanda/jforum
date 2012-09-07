@@ -1,3 +1,20 @@
+This is fork of rafaelsteil/jforum2 Github project.
+
+It was done as a part of Java Bootcamp School in Summer '2012
+organized by Riga Delivery Center of Accenture.
+
+Project contributors were:
+Alexey Smishlayev,
+Anastasija Sergejenko,
+Andris Pakulis,
+Arturs Kanders,
+Julija Stroganova,
+Marcis Kozulis,
+Misels Kaporins
+Nikolajs Jurickis,
+Olga Medvedeva
+
+
 Bugfixes
 1. if user sees "CAPTCHA is not ready", he need to request new one. Otherwise lucky spammers happily post without CAPTCHA
 2. Few HTML fixes for post view and edit form
