@@ -1,5 +1,4 @@
 *.class
-dist/
 upload/
 tmp/
 .tomcatplugin
